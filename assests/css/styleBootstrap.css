@@ -1,0 +1,70 @@
+body{
+    
+    background-image:url("../images/pinkDust.png");
+    
+}
+
+.navbar{
+    
+    background-color:#ffffff;
+    
+}
+
+.navbar-nav{
+    
+    display: inline-block;
+    float: right;
+}
+
+.navbar-right{
+    
+    margin-left: 5px;
+    
+}
+
+.myName{
+    
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #3bb7c5;
+    color: #fff;
+    padding: 20px;
+    margin-left: 10%;
+    
+}
+
+.pic{
+    
+    float:left;
+    width: 18%;
+    margin-right:5px;
+    
+}
+
+.panel.panel-default.aboutMe{
+    
+    
+    
+}
+
+.panel.panel-default.connectWith{
+    
+    
+    
+}
+
+
+footer{
+    
+    text-align: center;
+    color: lightgray;
+    background-color: slategrey;
+    width: 100%;
+    position:fixed;
+    bottom: 0px;
+    border-top: 5px solid #3bb7c5;
+    padding: 20px;
+    
+}
